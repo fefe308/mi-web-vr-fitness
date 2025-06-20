@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://fefe308.github.io/mi-web-vr-fitness/</loc>
-  </url>
-  <url>
-    <loc>https://fefe308.github.io/mi-web-vr-fitness/guia1.html</loc>
-  </url>
-  <url>
-    <loc>https://fefe308.github.io/mi-web-vr-fitness/blog1.html</loc>
-  </url>
-  <url>
-    <loc>https://fefe308.github.io/mi-web-vr-fitness/blog2.html</loc>
-  </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://fefe308.github.io/mi-web-vr-fitness/index.html</loc>
+  <lastmod>2025-06-20T18:35:53+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://fefe308.github.io/mi-web-vr-fitness/guia1.html</loc>
+  <lastmod>2025-06-20T18:35:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fefe308.github.io/mi-web-vr-fitness/blog1.html</loc>
+  <lastmod>2025-06-20T18:35:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fefe308.github.io/mi-web-vr-fitness/blog2.html</loc>
+  <lastmod>2025-06-20T18:35:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
