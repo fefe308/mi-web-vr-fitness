@@ -1,40 +1,15 @@
-🧠 Quizz – Posiciones Relativas de Rectas y Mediatriz
-Instrucciones: Elegí la opción correcta o completá según se indique.
-
-1. ¿Cuáles son las posiciones relativas que pueden tener dos rectas en el plano?
-a) Paralelas, secantes y perpendiculares
-b) Perpendiculares, alabeadas y coincidentes
-c) Paralelas, secantes y coincidentes
-d) Alabeadas, secantes y perpendiculares x
-
-2. Las rectas alabeadas se caracterizan por:
-a) Ser perpendiculares en un punto común
-b) Estar en planos distintos y no tener intersección x
-c) Coincidir en todos sus puntos
-d) Ser paralelas pero no equidistantes
-
-3. ¿Qué condición deben cumplir dos rectas para ser perpendiculares?
-a) Tener una intersección y no formar ángulos rectos
-b) No tocarse en ningún punto
-c) Cortarse formando un ángulo recto x
-d) Ser alabeadas y coplanares
-
-4. Completá:
-La mediatriz de un segmento es... la recta perpendicular al segmento que pasa por su punto medio.
-
-5. Si dos rectas son coincidentes, esto significa que:
-a) Se cruzan en un solo punto
-b) No tienen puntos en común
-c) Tienen todos sus puntos en común x
-d) Son perpendiculares
-
-6. ¿Cómo se representa gráficamente una mediatriz?
-a) Como una línea curva que une los extremos de un segmento
-b) Como una recta que pasa por el punto medio y es perpendicular al segmento
-c) Como un triángulo con los extremos del segmento
-d) Como una línea paralela al segmento x
-
-7. ¿Verdadero o Falso?
-Dos rectas paralelas pueden ser también coincidentes. F
-
-¿Querés que te prepare también una hoja de respuestas o versión interactiva para imprimir o usar en clase?
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://fefe308.github.io/mi-web-vr-fitness/</loc>
+  </url>
+  <url>
+    <loc>https://fefe308.github.io/mi-web-vr-fitness/guia1.html</loc>
+  </url>
+  <url>
+    <loc>https://fefe308.github.io/mi-web-vr-fitness/blog1.html</loc>
+  </url>
+  <url>
+    <loc>https://fefe308.github.io/mi-web-vr-fitness/blog2.html</loc>
+  </url>
+</urlset>
